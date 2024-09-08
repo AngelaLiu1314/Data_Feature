@@ -1,4 +1,5 @@
 Data Feature: Calorie Counter
+
 The purpose of this data feature is to provide a recipe and calorie information to a user given a main ingredient.
 
 This data feature combines two APIS:
